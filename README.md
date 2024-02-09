@@ -1,2 +1,2 @@
 # Java
- Projects using the Java programming language
+ Learning paths and full projects using the Python programming language
